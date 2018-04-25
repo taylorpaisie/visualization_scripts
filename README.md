@@ -1,0 +1,1 @@
+Python script using the folium module to create a map of Haiti with department outlines.
