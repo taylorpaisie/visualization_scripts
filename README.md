@@ -1,1 +1,1 @@
-Python scripts for data visualization.
+Scripts for data visualization.
